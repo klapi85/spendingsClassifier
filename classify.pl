@@ -31,9 +31,15 @@ my %tags = (
         "lnota mieszkaniowa" => "Czynsz",
 
 
-## todo: pizza , pizzeria, hut,
+## todo: pizza , pizzeria, hut, telepizza
 ## dom lekow,
 ## piotr i pawel
+## aldi
+## sushi restauracja
+## kebap
+## intermarche
+## piotr i pawel
+## Enel
 
     );
 
